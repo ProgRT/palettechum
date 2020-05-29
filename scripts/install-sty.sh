@@ -21,4 +21,3 @@ if cp ../Palettes/palettechum.sty $dossiercibleinst/
 then
 	echo "Instalation terminée."
 fi
-
